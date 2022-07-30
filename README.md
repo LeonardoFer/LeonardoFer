@@ -8,7 +8,14 @@
   </a>
 </div>
 
-Gosto muito de 
+
+
+<h4>Assuntos que acho interessante e que já estudei pelo menos o básico:</h4>
+<ul>
+  <li>:tv: Graphics Programming and Game Development</li>
+  <li>:desktop_computer: Automation and Artificial Intelligence</li>
+  <li>:robot: Machine Learning and Deep Learning</li>
+</ul>
 
 <h2 align="center">:blue_book: Alguns dos meus projetos:</h2>
 <div id="projects" align="center">
