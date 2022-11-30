@@ -12,6 +12,8 @@
 
 <h4>Assuntos que acho interessante e que já estudei pelo menos o básico:</h4>
 <ul>
+  <li>:woman_technologist: Fullstack Web Development </li>
+  <li>:desktop_computer: Desktop App Development </li>
   <li>:tv: Graphics Programming and Game Development</li>
   <li>:desktop_computer: Automation and Artificial Intelligence</li>
   <li>:robot: Machine Learning and Deep Learning</li>
